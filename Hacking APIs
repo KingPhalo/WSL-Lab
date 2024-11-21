@@ -1,0 +1,7 @@
+Currently reading and building a WSL lab on Ubuntu and I'm reading 'Hacking APIs'-Breaking Web Application Programming Interfaces' By Corey J ball
+Cahpter One
+Defining APIs which allow different software systems to communicae and share data(REST,SOAP,GraphQL,gRPC). The importance of API security protects us from vulnerabilities and attacks from hackers
+
+Chatpter 2
+REST APIs
+SOAP APIs, YAML, XML,JWT.
